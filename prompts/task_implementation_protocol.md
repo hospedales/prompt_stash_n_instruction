@@ -65,7 +65,7 @@
 
     *   Execute the following commands, and confirm they ran successfully before continuing:
         ```bash
-        git checkout master
+        git checkout main
         git pull
         git checkout -b feature/[TASK_IDENTIFIER]
         ```
